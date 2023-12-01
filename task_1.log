@@ -1,0 +1,17 @@
+ERROR    - 2023-12-01 15:07:31,746. В модуле "root" в строке 031 функция "__str__()" в 1701432451.7466738 секунд записала сообщение: Invalid name: -25. Name should be a non-empty string.
+ERROR    - 2023-12-01 15:08:16,735. В модуле "root" в строке 031 функция "__str__()" в 1701432496.735934 секунд записала сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 15:09:59,949. В модуле "root" в строке 032 функция "__str__()" в 1701432599.9491048 секунд записала сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 15:13:46,438. В модуле "root" в строке 032 функция "__str__()"  записала сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 15:14:10,693. В  строке 032 функция "__str__()"  записала сообщение: Invalid age: -25. Age should be a positive integer.
+INFO     - 2023-12-01 15:43:49,492. В  строке 070 функция "birthday()"  записала сообщение: Происходит увеличение возраста на 1: с 25 на 26
+ERROR    - 2023-12-01 15:44:06,044. В  строке 032 функция "__str__()"  записала сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 15:45:18,789. В  строке 032 функция "__str__()"  записала сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 15:49:44,988 - строка 030 -  функция "__str__()", сообщение: Invalid age: -25. Age should be a positive integer.
+ERROR    - 2023-12-01 16:19:03,310 - строка 012 -  функция "__str__()", сообщение: Invalid name: None. Name should be a non-empty string.
+ERROR    - 2023-12-01 16:24:04,190 - строка 031 -  функция "main()", сообщение: Invalid name. Name should be a non-empty string.
+ERROR    - 2023-12-01 16:24:57,347 - строка 031 -  функция "main()", сообщение: Invalid name. Name should be a non-empty string.
+ERROR    - 2023-12-01 16:35:44,246 - строка 030 -  функция "main()", сообщение: Invalid name. Name should be a non-empty string.
+INFO     - 2023-12-01 16:47:36,284 - строка 060 -  функция "birthday()", сообщение: Происходит увеличение возраста на 1: с 30 на 31
+ERROR    - 2023-12-01 16:48:46,585 - строка 029 -  функция "main()", сообщение: Invalid name. Name should be a non-empty string.
+ERROR    - 2023-12-01 16:48:58,506 - строка 029 -  функция "main()", сообщение: Invalid name. Name should be a non-empty string.
+ERROR    - 2023-12-01 16:49:06,158 - строка 031 -  функция "main()", сообщение: Invalid age. Age should be a positive integer.
